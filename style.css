@@ -3,11 +3,12 @@ body {
     margin: 0;
     padding: 0;
     background: #000;
+    height: 100%;
 }
 
 .header {
     background-size: cover;
-    height: 800px;
+    height: 100%;
     text-align: center;
 }
 
